@@ -26,6 +26,16 @@
 *.a
 *.lib
 
+#Userfile
+*.vcxproj.user
+
+#Directories
+Release/
+Debug/
+.vs/
+x64/
+
+
 # Executables
 *.exe
 *.out
